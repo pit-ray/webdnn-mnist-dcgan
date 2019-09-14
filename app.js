@@ -11,7 +11,7 @@ async function predict(num) {
     //generate random normal distribution (z-noise)
     let array = nj.random(100);
 
-    //convolution
+    //conditional
     let label = nj.zeros(10);
     label.set(num, 1);
     init_x = nj.concatenate([array, label]);
