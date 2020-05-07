@@ -2,4 +2,4 @@
 webdnn test
 
 ## Implemented Pages  
-<a href="https://pit-ray.github.io/webdnn-mnist-generator/index.html">Web Application(GitHub pages)</a> 
+<a href="https://pit-ray.github.io/webdnn-mnist-generator/index.html">Web Application at GitHub pages</a> 
